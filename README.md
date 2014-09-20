@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Another Hello World test repository
+So this is just another Hello World test repository.
